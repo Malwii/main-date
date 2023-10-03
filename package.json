@@ -1,0 +1,25 @@
+{
+  "name": "api.qunitjs.com",
+  "title": "QUnit API Docs",
+  "description": "API reference documentation for QUnit",
+  "version": "2.3.0",
+  "homepage": "http://api.qunitjs.com",
+  "author": {
+    "name": "JS Foundation and other contributors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/qunitjs/api.qunitjs.com.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qunitjs/api.qunitjs.com/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/qunitjs/api.qunitjs.com/blob/master/LICENSE.txt"
+    }
+  ],
+  "scripts": {},
+  "dependencies": {}
+}
